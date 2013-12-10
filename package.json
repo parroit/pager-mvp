@@ -1,0 +1,42 @@
+{
+  "name": "pager-mvp",
+  "description": "Implement a generic pager using mvp pattern",
+  "version": "0.1.0",
+  "homepage": "https://github.com/parroit/pager-mvp",
+  "author": {
+    "name": "parroit",
+    "email": "andrea.parodi@ebansoftware.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parroit/pager-mvp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parroit/pager-mvp/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/parroit/pager-mvp/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/pager-mvp",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-mocha-test": "~0.7.0",
+    "expect.js": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "cheerio": "~0.12.4"
+  },
+  "keywords": [],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "simplator": "0.0.5"
+  }
+}
