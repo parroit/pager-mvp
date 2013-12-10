@@ -1,7 +1,7 @@
 {
   "name": "pager-mvp",
   "description": "Implement a generic pager using mvp pattern",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/parroit/pager-mvp",
   "author": {
     "name": "parroit",
