@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git://github.com/parroit/pager-mvp.git"
   },
+  "browserify": {
+    "transform": ["brfs"]
+  },
   "bugs": {
     "url": "https://github.com/parroit/pager-mvp/issues"
   },
